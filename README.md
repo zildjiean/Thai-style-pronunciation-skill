@@ -16,7 +16,7 @@ Skill และเครื่องมือสำหรับทำเสี�
 
 ## ใช้เครื่องมือ thai-tts
 
-ต้องมี Node.js 18 ขึ้นไป คำสั่งที่สร้างเสียงจะเรียก TokenMe TTS (`paxa/paxa-tts-flash-v2`) โดยอ่านคีย์จาก `$TOKENME_API_KEY` หรือจากไฟล์ `../tokenme-tts-api-key.txt` (โฟลเดอร์แม่ของ `thai-tts/`) ห้าม commit คีย์ ไฟล์นี้อยู่ใน `.gitignore` แล้ว
+ต้องมี Node.js 18 ขึ้นไป คำสั่งที่สร้างเสียงจะเรียก TokenMe TTS (`paxa/paxa-tts-flash-v2`) ต้องตั้ง API key ของ TokenMe ไว้ในเครื่องก่อน (ดูวิธีตั้งในสคริปต์) ห้าม commit คีย์ลง git
 
 ```bash
 cd thai-tts
