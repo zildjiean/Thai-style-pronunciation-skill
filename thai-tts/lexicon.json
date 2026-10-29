@@ -380,7 +380,7 @@
     {
       "term": "Jebel Irhoud",
       "say": "เจเบล อีร์ฮูด",
-      "verified": false,
+      "verified": true,
       "source": "manual"
     },
     {
@@ -465,7 +465,7 @@
     {
       "term": "Neanderthal",
       "say": "นีแอนเดอทั่ล",
-      "verified": false,
+      "verified": true,
       "source": "manual"
     },
     {
