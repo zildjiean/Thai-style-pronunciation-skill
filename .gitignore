@@ -1,0 +1,7 @@
+# API keys never go in git
+*api-key*.txt
+.env
+# generated audio and pick pages (large, re-made by sample / variants.mjs)
+thai-tts/samples/
+thai-tts/*.html
+.DS_Store

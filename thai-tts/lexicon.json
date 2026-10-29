@@ -1,0 +1,785 @@
+{
+  "note": "Thai TTS pronunciation dictionary. term = how it is written on screen; say = Thai spelling the TTS reads. Longest term wins; matching ignores case unless case: true. verified = someone listened to the TTS output and approved it.",
+  "terms": [
+    {
+      "term": ".NET",
+      "say": "ดอทเน็ต",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "2Shell",
+      "say": "ทูเชลล์",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "admin",
+      "say": "แอดมิน",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "AGENTS.md",
+      "say": "เอเจนต์ส ดอท เอ็มดี",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "AI",
+      "say": "เอไอ",
+      "case": true,
+      "verified": false,
+      "source": "php2shell-explainer"
+    },
+    {
+      "term": "Akira",
+      "say": "อากิระ",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Android",
+      "say": "แอนดรอยด์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Anthropic",
+      "say": "แอนโทรปิก",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "API",
+      "say": "เอพีไอ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "API key",
+      "say": "เอพีไอ คีย์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Apple",
+      "say": "แอปเปิล",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Axie Infinity",
+      "say": "แอ็กซี่อินฟินิตี้",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "backdoor",
+      "say": "แบ็กดอร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Bluetooth",
+      "say": "บลูทูธ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "botnet",
+      "say": "บอตเน็ต",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "br",
+      "say": "บีอาร์",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Brotli",
+      "say": "บรอตลี่",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "bug",
+      "say": "บั๊ก",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "build",
+      "say": "บิวด์",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Bun",
+      "say": "บัน",
+      "case": true,
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Bybit",
+      "say": "บายบิต",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "ChatGPT",
+      "say": "แชตจีพีที",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Chrome",
+      "say": "โครม",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "CI/CD",
+      "say": "ซีไอซีดี",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "CISA",
+      "say": "ซิสซ่า",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Cl0p",
+      "say": "คล็อป",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Claude",
+      "say": "คลอด",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "cloud",
+      "say": "คลาวด์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Cloudflare",
+      "say": "คลาวด์แฟลร์",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "CVE",
+      "say": "ซีวีอี",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "CVSS",
+      "say": "ซีวีเอสเอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "DDoS",
+      "say": "ดีดอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "deepfake",
+      "say": "ดี๊ปเฟ้ก",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Denisovan",
+      "say": "เดนิโซวาน",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "DNA",
+      "say": "ดีเอ็นเอ",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Docker",
+      "say": "ด็อกเกอร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Drift",
+      "say": "ดริ๊ฟ",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Envoy",
+      "say": "เอนวอย",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "exploit",
+      "say": "เอ็กปลอย",
+      "verified": true,
+      "source": "user"
+    },
+    {
+      "term": "exploited",
+      "say": "เอ็กปลอย",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Facebook",
+      "say": "เฟซบุ๊ก",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "FBI",
+      "say": "เอฟบีไอ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "FFmpeg",
+      "say": "เอฟเอฟเอ็มเพ็ก",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "firewall",
+      "say": "ไฟร์วอลล์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "GitHub",
+      "say": "กิตฮับ",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "GitLab",
+      "say": "กิตแล็บ",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Google",
+      "say": "กูเกิ้ล",
+      "verified": false,
+      "source": "manual",
+      "note": "tone per thai-tts-cyber-news-video glossary"
+    },
+    {
+      "term": "GPT",
+      "say": "จีพีที",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Group-IB",
+      "say": "กรุ๊ปไอบี",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "hacker",
+      "say": "แฮกเกอร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Homo sapiens",
+      "say": "โฮโมเซเปียนส์",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "HTTP",
+      "say": "เอชทีทีพี",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "HTTP2Shell",
+      "say": "เอชทีทีพีทูเชลล์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "HTTPS",
+      "say": "เอชทีทีพีเอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "image",
+      "say": "อิมเมจ",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Imperva",
+      "say": "อิมเพอร์วา",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Instagram",
+      "say": "อินสตาแกรม",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "iOS",
+      "say": "ไอโอเอส",
+      "case": true,
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "iPhone",
+      "say": "ไอโฟน",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Istio",
+      "say": "อิสทีโอ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Java",
+      "say": "จาวา",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "JavaScript",
+      "say": "จาวาสคริปต์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Jebel Irhoud",
+      "say": "เจเบล อีร์ฮูด",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Kubernetes",
+      "say": "คูเบอร์เนทีส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Lazarus",
+      "say": "ลาซารัส",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Lazarus Group",
+      "say": "กลุ่มลาซารัส",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "LINE",
+      "say": "ไลน์",
+      "case": true,
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Linux",
+      "say": "ลินุกซ์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "LiteLLM",
+      "say": "ไลต์แอลแอลเอ็ม",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "LLM",
+      "say": "แอลแอลเอ็ม",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "login",
+      "say": "ล็อกอิน",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "macOS",
+      "say": "แมคโอเอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "malware",
+      "say": "มัลแวร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Marquis",
+      "say": "มาร์คี",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Microsoft",
+      "say": "ไมโครซอฟท์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "MSP",
+      "say": "เอ็มเอสพี",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Neanderthal",
+      "say": "นีแอนเดอทั่ล",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Node",
+      "say": "โหนด",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Node.js",
+      "say": "โหนดเจเอส",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Node2Shell",
+      "say": "โหนดทูเชลล์",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "npm",
+      "say": "เอ็นพีเอ็ม",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "NSA",
+      "say": "เอ็นเอสเอ",
+      "verified": false,
+      "source": "php2shell-explainer"
+    },
+    {
+      "term": "OAuth",
+      "say": "โอ อ๊อธ",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "open source",
+      "say": "โอเพ่นซอร์ส",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "OpenAI",
+      "say": "โอเพ่นเอไอ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Oracle",
+      "say": "ออราเคิล",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "OTP",
+      "say": "โอทีพี",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "package",
+      "say": "แพ็กเกจ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "password",
+      "say": "พาสเวิร์ด",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "patch",
+      "say": "แพตช์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "phishing",
+      "say": "ฟิชชิ่ง",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "PHP",
+      "say": "พีเอชพี",
+      "verified": false,
+      "source": "php2shell-explainer"
+    },
+    {
+      "term": "PHP2Shell",
+      "say": "พีเอชพีทูเชลล์",
+      "verified": false,
+      "source": "php2shell-explainer"
+    },
+    {
+      "term": "pip",
+      "say": "พิป",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Plex",
+      "say": "เพล็กซ์",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Plex2Shell",
+      "say": "เพล็กซ์ทูเชลล์",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Python",
+      "say": "ไพธอน",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Qilin",
+      "say": "คีลิน",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "QR code",
+      "say": "คิวอาร์โค้ด",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "ransomware",
+      "say": "แรนซัมแวร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Rapid7",
+      "say": "แรพิดเซเว่น",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "RCE",
+      "say": "อาร์ซีอี",
+      "verified": false,
+      "source": "this2shell-weekly-recap"
+    },
+    {
+      "term": "Reels",
+      "say": "รีลส์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "restart",
+      "say": "รีสตาร์ต",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "root",
+      "say": "รูท",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "SaaS",
+      "say": "แซ๊ส",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Salesforce",
+      "say": "เซลล์ฟ๊อส",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "Salesloft",
+      "say": "เซลล์ล็อฟ",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "server",
+      "say": "เซิร์ฟเวอร์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Shai-Hulud",
+      "say": "ชายฮูลูด",
+      "verified": true,
+      "source": "manual"
+    },
+    {
+      "term": "shell",
+      "say": "เชลล์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "SMS",
+      "say": "เอสเอ็มเอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Sony Pictures",
+      "say": "โซนี่พิกเจอร์ส",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "SQL injection",
+      "say": "เอสคิวแอล อินเจกชัน",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "supply chain",
+      "say": "ซัพพลายเชน",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "SWIFT",
+      "say": "สวิฟต์",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Telegram",
+      "say": "เทเลแกรม",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "TikTok",
+      "say": "ติ๊กต็อก",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "token",
+      "say": "โทเค่น",
+      "verified": false,
+      "source": "seed",
+      "note": "matches the user's โทเค่นมี"
+    },
+    {
+      "term": "Tokenme",
+      "say": "โทเค่นมี",
+      "verified": true,
+      "source": "user"
+    },
+    {
+      "term": "URL",
+      "say": "ยูอาร์แอล",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "VPN",
+      "say": "วีพีเอ็น",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "WannaCry",
+      "say": "วอนนาคราย",
+      "verified": false,
+      "source": "manual"
+    },
+    {
+      "term": "Wi-Fi",
+      "say": "ไวไฟ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "Windows",
+      "say": "วินโดวส์",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "WordPress",
+      "say": "เวิร์ดเพรส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "XSS",
+      "say": "เอ็กซ์เอสเอส",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "YouTube",
+      "say": "ยูทูบ",
+      "verified": false,
+      "source": "seed"
+    },
+    {
+      "term": "zero-day",
+      "say": "ซีโร่เดย์",
+      "verified": false,
+      "source": "seed"
+    }
+  ]
+}
